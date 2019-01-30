@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:54:30 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Tue Jan 29 15:01:22 2019
+# Process ID: 17471
+# Current directory: /home/th62003956/Desktop/SPI/SPI.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /home/th62003956/Desktop/SPI/SPI.sim/sim_1/behav/xsim/xsim.dir/Spi_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/th62003956/Desktop/SPI/SPI.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /home/th62003956/Desktop/SPI/SPI.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/th62003956/Desktop/SPI/SPI.sim/sim_1/behav/xsim/xsim.dir/Spi_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+webtalk_transmit: Time (s): cpu = 00:00:00.37 ; elapsed = 00:00:05 . Memory (MB): peak = 295.562 ; gain = 0.000 ; free physical = 2395 ; free virtual = 12026
+INFO: [Common 17-206] Exiting Webtalk at Tue Jan 29 15:01:28 2019...
